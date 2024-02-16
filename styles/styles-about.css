@@ -59,6 +59,12 @@ p {
     align-self: end;
 }
 
+@media screen and (max-height: 750px) {
+    .textos {
+        padding: 50px; 
+    }
+}
+
 @media screen and (max-width: 900px) {
 
     header {
