@@ -93,9 +93,9 @@ p {
     #container-izq,
     #container-cent,
     #container-der {
-        width: 100%; /* Ajusta el ancho para ocupar todo el espacio disponible */
+        width: 100%;
         margin-right: 0;
-        margin-top: 5px; /* Asegúrate de que no haya margen derecho */
+        margin-top: 5px;
     }
 
     #foto1,
